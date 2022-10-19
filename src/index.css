@@ -49,3 +49,24 @@ code {
 .search-raw{
   background-color: white;
 }
+
+.search-raw{
+  padding: 10px;
+  border: 15px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.btn-search{
+  height: 50%;
+  vertical-align: middle;
+  align-self: auto;
+  vertical-align: baseline;
+  /* margin: auto; */
+}
+
+.card-raw{
+  margin: auto;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
